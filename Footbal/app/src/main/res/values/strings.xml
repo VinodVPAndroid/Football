@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Footbal</string>
+    <string name="confirm_exit">Are you sure to EXIT ?</string>
+    <string name="action_settings">Settings</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
